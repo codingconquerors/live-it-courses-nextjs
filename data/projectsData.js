@@ -19,13 +19,13 @@ const projectsData = [
     title: 'Complete Java Online Course with Live Classes',
     description: `This Course helps you in setting solid foundation in Core Java and Java EE concepts for your career. New batch starts monthly.`,
     imgSrc: '/static/images/java-spring-boot-microservices-online-course-with-live-classes.webp',
-    href: '/blog/Java-JavaEE-In-Depth-online-course',
+    href: '/blog/Java-JavaEE-In-Depth-online-course-with-live-classes',
   },
   {
     title: 'Java, Spring Boot and Microservices based Online Course with Live Classes',
     description: `This Course is designed in such a way that it starts from scratch and cover every aspect upto production deployment. Basic knowledge of java is prerequisite and Special discount for needy students. New batch starts monthly.`,
     imgSrc: '/static/images/java-spring-boot-microservices-online-course-with-live-classes.webp',
-    href: '/blog/java-spring-boot-microservices-online-course-with-live-classes',
+    href: '/blog/java-spring-boot-microservices-online-course-with-live-classes-with-live-classes',
   },
   {
     title: 'Next.js Online Course with Live Classe',
@@ -33,6 +33,20 @@ const projectsData = [
     imgSrc:
       '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
     href: '/blog/next.js-online-course-with-live-classes',
+  },
+  {
+    title: 'Android + Java Integrated online course with live classes',
+    description: `If you want to learn Android but do not know java then this is the perfect course for you. New batch starts monthly.`,
+    imgSrc:
+      '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
+    href: '/blog/java-android-online-course-with-live-classes',
+  },
+  {
+    title: 'Android App Development complete online course with live classes',
+    description: `This course covers a to z of android development. New batch starts monthly.`,
+    imgSrc:
+      '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
+    href: '/blog/android-app-development-complete-course-with-live-classes',
   },
 ]
 
