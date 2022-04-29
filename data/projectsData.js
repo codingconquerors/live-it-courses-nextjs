@@ -39,14 +39,14 @@ const projectsData = [
     description: `If you want to learn Android but do not know java then this is the perfect course for you. New batch starts monthly.`,
     imgSrc:
       '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
-    href: '/blog/java-android-online-course-with-live-classes',
+    href: '/blog/java-Android-online-course-with-live-classes',
   },
   {
-    title: 'Android App Development complete online course with live classes',
-    description: `This course covers a to z of android development. New batch starts monthly.`,
+    title: 'Complete Android App Development online course with live classes',
+    description: `This course covers a to z of Android development. New batch starts monthly.`,
     imgSrc:
       '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
-    href: '/blog/android-app-development-complete-course-with-live-classes',
+    href: '/blog/complete-Android-app-development-online-course-with-live-classes',
   },
 ]
 
