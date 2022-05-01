@@ -18,14 +18,14 @@ const projectsData = [
   {
     title: 'Complete Java Online Course with Live Classes',
     description: `This Course helps you in setting solid foundation in Core Java and Java EE concepts for your career. New batch starts monthly.`,
-    imgSrc: '/static/images/java-spring-boot-microservices-online-course-with-live-classes.webp',
+    imgSrc: '/static/images/java-spring-Boot-microservices-online-course-with-live-classes.webp',
     href: '/blog/Java-JavaEE-In-Depth-online-course-with-live-classes',
   },
   {
     title: 'Java, Spring Boot and Microservices based Online Course with Live Classes',
     description: `This Course is designed in such a way that it starts from scratch and cover every aspect upto production deployment. Basic knowledge of java is prerequisite and Special discount for needy students. New batch starts monthly.`,
-    imgSrc: '/static/images/java-spring-boot-microservices-online-course-with-live-classes.webp',
-    href: '/blog/java-spring-boot-microservices-online-course-with-live-classes-with-live-classes',
+    imgSrc: '/static/images/java-spring-Boot-microservices-online-course-with-live-classes.webp',
+    href: '/blog/java-spring-Boot-microservices-online-course-with-live-classes',
   },
   {
     title: 'Next.js Online Course with Live Classe',
@@ -47,6 +47,13 @@ const projectsData = [
     imgSrc:
       '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
     href: '/blog/complete-Android-app-development-online-course-with-live-classes',
+  },
+  {
+    title: 'Spring Framework online course with live classes',
+    description: `This course would provide you with a comprehensive walkthrough of Spring Framework for building Enterprise and Web applications. New batch starts monthly.`,
+    imgSrc:
+      '/static/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp',
+    href: '/blog/comprehensive-spring-framework-online-course-with-live-classes',
   },
 ]
 

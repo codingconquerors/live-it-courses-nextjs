@@ -10,7 +10,7 @@ export default function Home() {
         />
         <meta
           name="description"
-          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring Boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta
           name="keywords"
@@ -34,7 +34,7 @@ export default function Home() {
         <meta property="og:url" content="https://www.liveitcourses.com/" />
         <meta
           property="og:description"
-          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring Boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/static/images/conquer-the-world-of-coding.webp" />
@@ -48,7 +48,7 @@ export default function Home() {
         />
         <meta
           name="twitter:description"
-          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring Boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta name="twitter:image" content="/static/images/conquer-the-world-of-coding.webp" />
       </Helmet>
