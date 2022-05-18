@@ -1,3 +1,3 @@
 User-agent: * 
 Disallow:
-Sitemap: https://live-it-courses-nextjs.vercel.app/sitemap.xml
+Sitemap: https://www.liveitcourses.com/sitemap.xml
