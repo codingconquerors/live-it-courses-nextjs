@@ -1,6 +1,6 @@
 ---
 name: Coding Conquerors
-avatar: /static/images/conquer-the-world-of-coding.webp
+avatar: /static/images/about-us.webp
 occupation: Online IT Courses based on live coding classes
 company: Coding Conquerors Inc.
 email: livecodingclasses@gmail.com

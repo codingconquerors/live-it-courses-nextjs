@@ -98,6 +98,7 @@ export default function Home() {
               alt="IT courses with interactive classes"
               width="464"
               height="353"
+              layout="responsive"
             ></Image>
           </div>
         </div>
