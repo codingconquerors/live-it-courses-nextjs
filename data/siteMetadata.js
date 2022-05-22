@@ -1,12 +1,12 @@
 const siteMetadata = {
   title: 'Online IT Courses based on live classes',
   author: 'Coding Conquerors Inc.',
-  headerTitle: 'Live IT Courses',
+  headerTitle: 'Live Online IT Courses',
   description: 'Online IT Courses based on live classes',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.liveitcourses.com/',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/codingconquerors/live-it-courses-nextjs',
   siteLogo: '/static/images/',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
