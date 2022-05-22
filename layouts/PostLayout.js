@@ -74,7 +74,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           )}
                           {author.price && (
                             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
-                              Duration: {author.price}
+                              Price: {author.price}
                             </div>
                           )}
                         </dd>
