@@ -32,8 +32,8 @@ const servicesData = [
   {
     title: 'IT Tutoring Service',
     description: `Our online tutoring service includes both offline and online tuitions for IT and computer programming subjects such as Java, C, C++ and data structure etc.  These tuition classes are designed to meet the needs of students from 8th standard to graduation.`,
-    imgSrc: '/static/images/IT-tutoring-service.webp',
-    href: '/blog/services/IT-Tutoring-Service',
+    imgSrc: '/static/images/IT-tuition-service.webp',
+    href: '/blog/services/IT-tuition-service',
   },
 ]
 
