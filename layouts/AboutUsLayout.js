@@ -2,7 +2,7 @@ import Image from '@/components/Image'
 import Comments from '@/components/comments'
 import { PageSEO } from '@/components/SEO'
 
-export default function AuthorLayout({ children, frontMatter }) {
+export default function AboutUsLayout({ children, frontMatter }) {
   const { name, avatar } = frontMatter
 
   return (
