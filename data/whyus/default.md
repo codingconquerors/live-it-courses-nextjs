@@ -9,6 +9,8 @@ linkedin: https://www.linkedin.com/in/coding-conquerors/
 github: https://github.com
 ---
 
+**We are the answers to the following questions**
+
               - Are you a computer science or an IT student who is afraid of
               coding?  We can help you in conquering this fear within a
               month.
