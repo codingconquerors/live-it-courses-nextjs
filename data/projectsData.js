@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Complete Java Online Course with Live Classes',
     description: `This Course helps you in setting solid foundation in Core Java and Java EE concepts for your career. New batch starts monthly.`,
     imgSrc: '/static/images/java-online-course-with-live-classes.webp',
-    href: '/blog/online-IT-courses/java-javaee-online-course-with-live-classes',
+    href: '/blog/online-IT-courses/java-online-course-with-live-classes',
   },
   {
     title: 'Java, Spring Boot and Microservices based Online Course with Live Classes',
