@@ -1,6 +1,7 @@
 ---
 name: Online IT courses with live classes
 image: /static/images/why-us.webp
+video: /static/videos/a.mp4
 occupation: Online IT Courses based on live coding classes
 company: Coding Conquerors Inc.
 email: livecodingclasses@gmail.com

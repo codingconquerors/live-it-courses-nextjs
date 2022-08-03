@@ -19,7 +19,7 @@ export default function Home() {
         <meta name="robots" content="index, follow" />
         <meta
           name="google-site-verification"
-          content="0Vwwc_sg_KrnN4F8z_TpK81iov4KqYMh343lVE1IxPI"
+          content="vh6p9iAUTQn1GiB6Kk8H5Z4Ng0Etv_iLIe-TEeuLSBE"
         />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
