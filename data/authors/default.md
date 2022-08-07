@@ -1,8 +1,8 @@
 ---
-name: Coding Conquerors
+name: Live IT Courses
 avatar: /static/images/about-us.webp
 occupation: Online IT Courses based on live coding classes
-company: Coding Conquerors Inc.
+company: Live IT Courses
 email: livecodingclasses@gmail.com
 twitter: https://www.twitter.com/liveitcourses
 linkedin: https://www.linkedin.com/in/coding-conquerors/

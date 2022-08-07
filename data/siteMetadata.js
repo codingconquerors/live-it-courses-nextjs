@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Online IT Courses based on live classes',
-  author: 'Coding Conquerors Inc.',
+  author: 'Live IT Courses',
   headerTitle: 'Live Online IT Courses',
   description: 'Online IT Courses based on live classes',
   language: 'en-us',
