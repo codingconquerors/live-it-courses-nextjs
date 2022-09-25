@@ -20,7 +20,7 @@ export default function WhyUs({ children, frontMatter }) {
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center pt-8">
             <Image src={image} alt="why us" width="300px" height="210px" />
-            <ReactPlayer
+            {/* <ReactPlayer
               src={video}
               url={video}
               width="300px"
@@ -36,7 +36,7 @@ export default function WhyUs({ children, frontMatter }) {
                   },
                 },
               }}
-            />
+            /> */}
           </div>
           <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
           <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
