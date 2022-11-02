@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Online IT Courses based on live classes',
   author: 'Live IT Courses',
-  headerTitle: 'Live Online IT Courses',
+  headerTitle: 'Online IT Courses',
   description: 'Online IT Courses based on live classes',
   language: 'en-us',
   theme: 'system', // system, dark or light

@@ -35,6 +35,12 @@ const projectsData = [
     imgSrc: '/static/images/spring-framework-live-online-course.webp',
     href: '/blog/online-IT-courses/comprehensive-spring-framework-online-course-with-live-classes',
   },
+  /* {
+    title: 'Website creation online course with live classes',
+    description: `This course would provide you with a step by step approach to learn how to create a website using HTML language. New batch starts monthly.`,
+    imgSrc: '/static/images/spring-framework-live-online-course.webp',
+    href: '/blog/online-IT-courses/website-creation-online-course-with-live-classes',
+  }, */
 ]
 
 export default projectsData
