@@ -1,5 +1,6 @@
 import Image from '@/components/Image'
 import Comments from '@/components/comments'
+import siteMetadata from '@/data/siteMetadata'
 import { PageSEO } from '@/components/SEO'
 
 export default function AboutUsLayout({ children, frontMatter }) {
@@ -8,8 +9,8 @@ export default function AboutUsLayout({ children, frontMatter }) {
   return (
     <>
       <PageSEO
-        title={`Instructor led online IT courses - ${name}`}
-        description={`online IT courses with live classes - ${name}`}
+        title={`Instructor led online IT courses - ${siteMetadata.author}`}
+        description={`online IT courses with live classes - ${siteMetadata.author}`}
       />
       <div className="divide-y">
         <div className="space-y-2 pt-4 pb-4 md:space-y-5">
