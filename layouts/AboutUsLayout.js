@@ -7,7 +7,10 @@ export default function AboutUsLayout({ children, frontMatter }) {
 
   return (
     <>
-      <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
+      <PageSEO
+        title={`Instructor led online IT courses - ${name}`}
+        description={`online IT courses with live classes - ${name}`}
+      />
       <div className="divide-y">
         <div className="space-y-2 pt-4 pb-4 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
