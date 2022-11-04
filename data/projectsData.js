@@ -36,9 +36,10 @@ const projectsData = [
     href: '/blog/online-IT-courses/comprehensive-spring-framework-online-course-with-live-classes',
   },
   {
-    title: 'Website creation online course with live classes',
-    description: `This course would provide you with a step by step approach to learn how to create a website using HTML language. New batch starts monthly.`,
+    title: 'Website development online course with live classes',
+    description: `The course would give you the opportunity to begin your career as a web designer and begin your journey in web development.`,
     imgSrc: '/static/images/website-html.webp',
+    href: '/blog/online-IT-courses/website-development-online-course-with-live-classes',
   },
 ]
 
