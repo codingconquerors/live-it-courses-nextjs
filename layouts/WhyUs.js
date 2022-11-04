@@ -10,7 +10,10 @@ export default function WhyUs({ children, frontMatter }) {
 
   return (
     <>
-      <PageSEO title={`Why Us - ${name}`} description={`Why Us - ${name}`} />
+      <PageSEO
+        title={`Online IT Courses with live sessions`}
+        description={`Need help in getting IT job - ${name}`}
+      />
       <div className="divide-y">
         <div className="space-y-2 pt-4 pb-4 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
