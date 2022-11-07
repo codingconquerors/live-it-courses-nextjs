@@ -21,4 +21,4 @@ covered which helps students prepare for interview along with course topics. No
 question asked money back guarantee after one week of classes if a student is not
 satisfied.
 
-All our our IT courses are instructor-led. You can find our list of live courses [here](/courses). As all of these courses are conducted in live sessions where we interact with learners one to one through video sessions.
+All of our IT courses are instructor-led and are conducted in live sessions where we interact with learners one to one through video sessions. You can find our list of live courses [here](/courses).
