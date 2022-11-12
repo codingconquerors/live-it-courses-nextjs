@@ -1,6 +1,7 @@
 ---
 name: Live IT Courses
 avatar: /static/images/about-us.webp
+video: /static/videos/Online IT Courses.mp4
 occupation: Online IT Courses based on live coding classes
 company: Live IT Courses
 email: livecodingclasses@gmail.com
