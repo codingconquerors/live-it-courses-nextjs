@@ -55,7 +55,7 @@ const projectsData = [
   },
   {
     title: 'Kubernetes online course with live classes',
-    description: ` Kubernetes is an open-source platform that helps manage containerized workloads and services. It is portable and extensible, making it a good choice for organizations of all sizes.`,
+    description: `The Apache Kafka online course is designed to help beginners and professionals learn the basics of this powerful message queueing system.`,
     imgSrc: '/static/images/kubernetes-online-course-with-live-classes.webp',
     href: '/blog/online-IT-courses/kubernetes-online-course-with-live-classes',
   },
