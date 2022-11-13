@@ -23,10 +23,13 @@ export default function IndexLayout({ frontMatter }) {
             learn new coding languages or want to improve your existing skills, we have a course for
             you. Thank you for choosing LiveITCourses.com!
           </p>
-          <div className="grid place-items-center">
+          <div className="player-wrapper">
             <ReactPlayer
               url={video}
               src={video}
+              className="react-player"
+              width="100%"
+              height="100%"
               loop
               controls
               playing={isPlaying}

@@ -11,7 +11,7 @@
 }
 
 .footnotes {
-  @apply pt-8 mt-12 border-t border-gray-200 dark:border-gray-700;
+  @apply mt-12 border-t border-gray-200 pt-8 dark:border-gray-700;
 }
 
 .csl-entry {
@@ -34,5 +34,16 @@ input:-webkit-autofill:focus {
 
 .p {
   font-size: 14px;
-  font-family: "AvenirNext", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'AvenirNext', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
