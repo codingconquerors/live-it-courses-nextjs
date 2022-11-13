@@ -29,6 +29,7 @@ export default function IndexLayout({ frontMatter }) {
               src={video}
               loop
               controls
+              playsInline
               playing={isPlaying}
               config={{
                 file: {
