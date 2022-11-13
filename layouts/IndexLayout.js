@@ -26,6 +26,7 @@ export default function IndexLayout({ frontMatter }) {
           <div className="grid place-items-center">
             <ReactPlayer
               url={video}
+              src={video}
               loop
               controls
               playing={isPlaying}
