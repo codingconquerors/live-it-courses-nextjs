@@ -59,6 +59,12 @@ const projectsData = [
     imgSrc: '/static/images/kubernetes-online-course-with-live-classes.webp',
     href: '/blog/online-IT-courses/kubernetes-online-course-with-live-classes',
   },
+  {
+    title: 'Data Structure And Algorithms online course with live classes',
+    description: `Our Data Structure and Algorithms online course (using java) is specifically designed to help you crack the coding interviews!`,
+    imgSrc: '/static/images/data-structure-algorithms-online-course-with-java.webp',
+    href: '/blog/online-IT-courses/data-structure-algorithms-online-course-with-live-classes',
+  },
 ]
 
 export default projectsData
