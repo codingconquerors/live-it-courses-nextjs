@@ -5,7 +5,7 @@ import { useState } from 'react'
 
 export default function IndexLayout({ frontMatter }) {
   const { video } = frontMatter
-  const [isPlaying, setIsPlaying] = useState(true)
+  const [isPlaying, playsInline] = useState(true)
 
   return (
     <>
@@ -29,7 +29,7 @@ export default function IndexLayout({ frontMatter }) {
               src={video}
               loop
               controls
-              playsInline
+              playsInline={playsInline}
               playing={isPlaying}
               config={{
                 file: {
