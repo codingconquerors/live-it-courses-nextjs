@@ -32,7 +32,6 @@ export default function IndexLayout({ frontMatter }) {
               height="100%"
               loop
               muted
-              controls
               playing={isPlaying}
               config={{
                 file: {
@@ -40,6 +39,7 @@ export default function IndexLayout({ frontMatter }) {
                     controlsList: 'nodownload',
                     playsInline: true,
                     preload: 'auto',
+                    controls: true,
                   },
                 },
               }}
