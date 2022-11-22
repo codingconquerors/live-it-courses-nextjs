@@ -65,6 +65,12 @@ const projectsData = [
     imgSrc: '/static/images/data-structure-algorithms-online-course-with-java.webp',
     href: '/blog/online-IT-courses/data-structure-algorithms-online-course-with-live-classes',
   },
+  {
+    title: 'C++ Programming Online Course - From Basic to Advance level',
+    description: `Master C++ programming from basic to advance level by understanding every topic with practical session.`,
+    imgSrc: '/static/images/c++-online-course-with-live-classes.webp',
+    href: '/blog/online-IT-courses/c++-online-course-with-live-classes',
+  },
 ]
 
 export default projectsData

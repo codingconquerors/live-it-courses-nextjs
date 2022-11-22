@@ -19,9 +19,11 @@ export default function IndexLayout({ frontMatter }) {
             Welcome to LiveITCourses.com!
           </h1>
           <p className="text-sm leading-7 text-gray-900 dark:text-gray-400">
-            We are excited to offer you a variety of online IT courses. Whether you are looking to
-            learn new coding languages or want to improve your existing skills, we have a course for
-            you. Thank you for choosing LiveITCourses.com!
+            We sincerely appreciate your visit to LiveITCourses.com! We are excited to offer you a
+            variety of online IT courses. Regardless of whether you are looking to learn new coding
+            languages or want to improve your existing programming skills, we have a course for you.
+            You will get the chance to work directly with our professional teachers because all of
+            our IT courses are session-based and instructor-led.
           </p>
           <div className="player-wrapper">
             <ReactPlayer
