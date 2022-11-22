@@ -22,8 +22,8 @@ export default function IndexLayout({ frontMatter }) {
             We sincerely appreciate your visit to LiveITCourses.com! We are excited to offer you a
             variety of online IT courses. Regardless of whether you are looking to learn new coding
             languages or want to improve your existing programming skills, we have a course for you.
-            You will get the chance to work directly with our professional teachers because all of
-            our IT courses are session-based and instructor-led.
+            You will get the chance to work directly with our professional instructors because all
+            of our IT courses are session-based and instructor-led.
           </p>
           <div className="player-wrapper">
             <ReactPlayer
