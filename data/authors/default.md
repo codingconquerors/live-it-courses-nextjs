@@ -23,12 +23,12 @@ covered which helps students prepare for interview along with course topics. No
 question asked money back guarantee after one week of classes if a student is not
 satisfied.
 
-At liveitcourses.com, you can learn different technologies online through live
+At LiveITCourses.com, you can learn different technologies online through live
 sessions that are tailored to your needs. With our friendly tone of voice, we make sure
 that you have a great learning experience. Our courses are taught by expert instructors
 who will guide you through each step of the learning process. You will have access to
 interactive lessons, quizzes, and exercises that will help you learn and retain the
-material. liveitcourses.com is a great way to learn different technologies online! Our
+material. LiveITCourses.com is a great way to learn different technologies online! Our
 live sessions are fun and engaging, and you'll be able to learn at your own pace. We
 hope you enjoy our courses and find them helpful in your career journey.
 
