@@ -72,10 +72,10 @@ const projectsData = [
     href: '/blog/online-IT-courses/c++-online-course-with-live-classes',
   },
   {
-    title: 'C Language Online Course - From Basic to Advance level',
-    description: `Our C language online course follows a step by step approach to master the C Programming language with simple and easy to understand examples.`,
-    imgSrc: '/static/images/c-language-online-course-with-live-classes.webp',
-    href: '/blog/online-IT-courses/c-language-online-course-with-live-classes',
+    title: 'C Programming Online Course - From Basic to Advance level',
+    description: `Master C programming from basic to advance level by understanding every topic with practical session.`,
+    imgSrc: '/static/images/c-online-course-with-live-classes.webp',
+    href: '/blog/online-IT-courses/c-online-course-with-live-classes',
   },
 ]
 
