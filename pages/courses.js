@@ -2,6 +2,7 @@ import siteMetadata from '@/data/siteMetadata'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
+import Link from 'next/link'
 
 export default function Courses() {
   return (
@@ -15,11 +16,12 @@ export default function Courses() {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Online IT Courses With Live Classes
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          <p>
             Whether you want to upgrade your skills, start a new career, or refresh your knowledge,
             finding the right course is just a few keystrokes away. Our online courses are the best
             courses available in the market. We offer following online IT courses. All of these
-            Online Courses are based on live classes.
+            Online Courses are based on live classes. If you are searching for a specific course
+            please use search option provided <Link href={'/blog'}>here.</Link>
           </p>
         </div>
         <div className="container py-12">
