@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Learn basic programming skills - Free online course',
+    description: `This is a free online course for students and beginners who want to start learning to code or want to start with programming.`,
+    imgSrc: '/static/images/free-online-course-basic-programming-skills.webp',
+    href: '/blog/online-IT-courses/free-online-course-basic-programming-skills',
+  },
+  {
     title: 'Complete Java Online Course with Live Classes',
     description: `This online course helps you in setting solid foundation in Core Java and Java EE concepts for your career. New batch starts monthly.`,
     imgSrc: '/static/images/java-online-course-with-live-classes.webp',
