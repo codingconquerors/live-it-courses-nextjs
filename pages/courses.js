@@ -16,12 +16,19 @@ export default function Courses() {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Online IT Courses With Live Classes
           </h1>
+
           <p>
             Whether you want to upgrade your skills, start a new career, or refresh your knowledge,
             finding the right course is just a few keystrokes away. Our online courses are the best
             courses available in the market. We offer following online IT courses. All of these
             Online Courses are based on live classes. If you are searching for a specific course
-            please use search option provided <Link href={'/blog'}>here.</Link>
+            please use search option provided{' '}
+            <a
+              href={'/blog'}
+              className=" text-green-700 underline hover:text-green-800 dark:hover:text-green-600"
+            >
+              here.
+            </a>
           </p>
         </div>
         <div className="container py-12">
