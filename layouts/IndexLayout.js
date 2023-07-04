@@ -23,7 +23,8 @@ export default function IndexLayout({ frontMatter }) {
             variety of online IT courses. Regardless of whether you are looking to learn new coding
             languages or want to improve your existing programming skills, we have a course for you.
             You will get the chance to work directly with our professional instructors because all
-            of our IT courses are session-based and instructor-led.
+            of our IT courses are session-based online course and instructor-led online course with
+            live classes.
           </p>
           <div className="player-wrapper">
             <ReactPlayer

@@ -3,7 +3,8 @@ const headerNavLinks = [
   { href: '/whyus', title: 'Why Us' },
   { href: '/services', title: 'Services' },
   { href: '/blog', title: 'Blog' },
-  { href: '/courses', title: 'Courses' },
+  { href: '/liveonlinecourses', title: 'Live Courses' },
+  // { href: '/contact', title: 'Contact Us' },
 ]
 
 export default headerNavLinks

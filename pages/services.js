@@ -13,11 +13,14 @@ export default function Services() {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-4 pb-4 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Our Services
+            Our Services: Empowering You for Success
           </h1>
           <p>
-            Our Services spans from teaching, interview preparation, free guidance, project creation
-            and IT training.
+            Welcome to our platform, where we offer a comprehensive range of services designed to
+            support your educational and professional growth. Our commitment is to empower you with
+            the knowledge, skills, and guidance you need to excel in your chosen field. From
+            teaching and interview preparation to free guidance, project creation, and IT training,
+            our services are tailored to meet your unique needs and aspirations.
           </p>
         </div>
         <div className="container py-12">

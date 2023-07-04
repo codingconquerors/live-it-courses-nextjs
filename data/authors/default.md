@@ -33,3 +33,10 @@ live sessions are fun and engaging, and you'll be able to learn at your own pace
 hope you enjoy our courses and find them helpful in your career journey.
 
 All of our IT courses are instructor-led and are conducted in live sessions where we interact with learners one to one through video sessions. You can find our list of live courses [here](/courses).
+
+In recent years, the landscape of education has undergone a significant transformation, largely fueled by technological advancements and the proliferation of the internet. One of the most groundbreaking developments has been the advent of live online courses. These interactive and dynamic learning experiences have revolutionized the traditional educational model and opened up new opportunities for learners worldwide.
+
+Live online courses, also known as virtual classrooms or webinars, are educational programs conducted over the internet in real-time. Unlike pre-recorded video lessons or static materials, live online courses offer students the opportunity to engage with instructors and fellow learners in a synchronous environment. These courses cover a wide range of subjects, from academic subjects to professional development, and are delivered using various online platforms and tools, such as video conferencing software, interactive whiteboards, chat features, and multimedia presentations.
+Live online courses have brought a paradigm shift in the way we approach education. By leveraging technology, these courses have transcended geographical boundaries, offered real-time interaction, and provided personalized learning experiences to students worldwide. As we look to the future, it is evident that live online courses will continue to evolve, transforming education and empowering learners to acquire knowledge and skills in an increasingly digital world. The potential for innovation and growth in this field is immense, and educators and learners alike can look forward to a future where learning knows no boundaries.
+
+To help students and budding programmers equally, we have launched our live online courses because of all the reasons mentioned above.
