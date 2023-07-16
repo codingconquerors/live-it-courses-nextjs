@@ -32,7 +32,7 @@ material. LiveITCourses.com is a great way to learn different technologies onlin
 live sessions are fun and engaging, and you'll be able to learn at your own pace. We
 hope you enjoy our courses and find them helpful in your career journey.
 
-All of our IT courses are instructor-led and are conducted in live sessions where we interact with learners one to one through video sessions. You can find our list of live courses [here](/courses).
+All of our IT courses are instructor-led and are conducted in live sessions where we interact with learners one to one through video sessions. You can find our list of live courses [here](/liveonlinecourses).
 
 In recent years, the landscape of education has undergone a significant transformation, largely fueled by technological advancements and the proliferation of the internet. One of the most groundbreaking developments has been the advent of live online courses. These interactive and dynamic learning experiences have revolutionized the traditional educational model and opened up new opportunities for learners worldwide.
 
