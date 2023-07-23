@@ -12,6 +12,12 @@ const projectsData = [
     href: '/blog/online-IT-courses/java-online-course-with-live-classes',
   },
   {
+    title: 'Python Course with Live Classes',
+    description: `This online course helps you in setting solid foundation in Python. New batch starts monthly.`,
+    imgSrc: '/static/images/python-online-course-with-live-classes.webp',
+    href: '/blog/online-IT-courses/python-online-course-with-live-classes',
+  },
+  {
     title: 'Java, Spring Boot and Microservices based Online Course with Live Classes',
     description: `This online course is designed in such a way that it starts from scratch and cover every aspect upto production deployment. Basic knowledge of java is prerequisite and Special discount for needy students. New batch starts monthly.`,
     imgSrc: '/static/images/spring-boot-microservices-online-course-with-live-classes.webp',
