@@ -61,8 +61,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           {author.avatar && (
                             <Image
                               src={author.avatar}
-                              width="138px"
-                              height="138px"
+                              width="138"
+                              height="138"
                               alt="Live online IT courses"
                               className="h-10 w-10 rounded-full"
                             />

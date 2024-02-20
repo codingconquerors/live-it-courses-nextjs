@@ -59,8 +59,8 @@ export default function Home() {
               We are IT Professionals who teach coding skills through live classes
             </h1>
             <div className="mt-6">
-              <p>
-                <p className="p">
+              <div>
+                <div className="p">
                   We are a team of highly experienced IT professionals who can help you achieve your
                   career objectives through our best in the market live online courses. We transform
                   your life by helping you get an IT job as per current market requirements. We
@@ -74,11 +74,11 @@ export default function Home() {
                   covered which helps students prepare for interview along with course topics. No
                   question asked money back guarantee after one week of classes if a student is not
                   satisfied.
-                </p>
+                </div>
                 <br></br>
                 <br></br>
                 <h2 className="h2">Our Teaching Ideology</h2>
-                <p className="p">
+                <div className="p">
                   We offer online courses purely based on live classes. During these live classes,
                   we understand the existing level of students&apos; knowledge and experience, and
                   the transformation starts from there. This is exactly the opposite of learning
@@ -87,8 +87,8 @@ export default function Home() {
                   rapidly. We believe that no student is weak, it is just the gap in the level of
                   understanding between a student and a teacher which makes things complicated. Our
                   interactive programming classes fill all the gaps.
-                </p>
-              </p>
+                </div>
+              </div>
             </div>
           </div>
           <div className="mb-10 flex-shrink-0 lg:mt-12 lg:px-4">

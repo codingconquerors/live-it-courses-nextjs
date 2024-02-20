@@ -8,7 +8,7 @@ export default function FourZeroFour() {
           404
         </h1>
       </div>
-      <div className="max-w-md">
+      /*<div className="max-w-md">
         <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">
           Sorry we couldn't find this page.
         </p>
@@ -18,7 +18,7 @@ export default function FourZeroFour() {
             Back to homepage
           </button>
         </Link>
-      </div>
+      </div>*/
     </div>
   )
 }

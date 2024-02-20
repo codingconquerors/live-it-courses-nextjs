@@ -22,7 +22,7 @@ export default function WhyUs({ children, frontMatter }) {
         </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center pt-8">
-            <Image src={image} alt="why us" width="300px" height="210px" />
+            <Image src={image} alt="why us" width="300" height="210" />
             {/* <ReactPlayer
               src={video}
               url={video}

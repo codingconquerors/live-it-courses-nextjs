@@ -17,7 +17,7 @@ export default function Courses() {
             Online IT Courses With Live Classes
           </h1>
 
-          <p>
+          <div>
             Whether you want to upgrade your skills, start a new career, or refresh your knowledge,
             finding the right course is just a few keystrokes away. Our online courses are the best
             courses available in the market. We offer following online IT courses. All of these
@@ -29,7 +29,7 @@ export default function Courses() {
             >
               here.
             </a>
-          </p>
+          </div>
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">

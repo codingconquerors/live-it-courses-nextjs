@@ -20,7 +20,7 @@ export default function AboutUsLayout({ children, frontMatter }) {
         </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center pt-8">
-            <Image src={avatar} alt="about us" width="300px" height="210px" />
+            <Image src={avatar} alt="about us" width="300" height="210" />
           </div>
           <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
           <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
