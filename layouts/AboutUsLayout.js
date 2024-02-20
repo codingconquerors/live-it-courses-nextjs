@@ -13,7 +13,7 @@ export default function AboutUsLayout({ children, frontMatter }) {
         description={`online IT courses with live classes - ${siteMetadata.author}`}
       />
       <div className="divide-y">
-        <div className="space-y-2 pt-4 pb-4 md:space-y-5">
+        <div className="space-y-2 pb-4 pt-4 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Who are we
           </h1>
@@ -22,8 +22,8 @@ export default function AboutUsLayout({ children, frontMatter }) {
           <div className="flex flex-col items-center pt-8">
             <Image src={avatar} alt="about us" width="300" height="210" />
           </div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
+          <div className="prose max-w-none pb-8 pt-8 dark:prose-dark xl:col-span-2">{children}</div>
+          <div className="prose max-w-none pb-8 pt-8 dark:prose-dark xl:col-span-2">
             <Comments frontMatter={frontMatter} />
           </div>
         </div>

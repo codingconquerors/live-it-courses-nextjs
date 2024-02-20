@@ -15,7 +15,7 @@ export default function WhyUs({ children, frontMatter }) {
         description={`Need help in getting IT job - ${name}`}
       />
       <div className="divide-y">
-        <div className="space-y-2 pt-4 pb-4 md:space-y-5">
+        <div className="space-y-2 pb-4 pt-4 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             What makes us special
           </h1>
@@ -41,8 +41,8 @@ export default function WhyUs({ children, frontMatter }) {
               }}
             /> */}
           </div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
+          <div className="prose max-w-none pb-8 pt-8 dark:prose-dark xl:col-span-2">{children}</div>
+          <div className="prose max-w-none pb-8 pt-8 dark:prose-dark xl:col-span-2">
             <Comments frontMatter={frontMatter} />
           </div>
         </div>
