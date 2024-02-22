@@ -1,3 +1,4 @@
+/* eslint-disable no-unsafe-optional-chaining */
 import React, { useState, useEffect, useCallback } from 'react'
 import { useTheme } from 'next-themes'
 
